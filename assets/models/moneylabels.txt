@@ -1,0 +1,24 @@
+1 TND  
+2 TND  
+500 millimes  
+100 millimes  
+50 millimes  
+200 millimes  
+50 TND  
+5 TND  
+10 TND  
+20 TND  
+100Euro  
+10Euro  
+200Euro  
+20Euro  
+500Euro  
+50Euro  
+5Euro  
+1_Dollar  
+50_Dollar  
+10_Dollar  
+2_Dollar  
+20_Dollar  
+5_Dollar  
+100_Dollar  
