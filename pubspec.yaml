@@ -56,7 +56,6 @@ flutter:
   generate: true
   assets:
   - assets/
-  - assets/models/yolov8n.tflite
   - assets/models/bestlast_float16.tflite
   - assets/models/best_float16.tflite
   - assets/models/newlabels.txt
